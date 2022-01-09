@@ -4,5 +4,5 @@
 
 ## Contributors
 
-..* Sue Sampson
+* Sue Sampson
 * Tatiyana Dean
