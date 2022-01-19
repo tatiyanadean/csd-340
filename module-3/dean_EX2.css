@@ -1,0 +1,64 @@
+html, body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+p {
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+    line-height: 1.4em;
+}
+
+
+h1, h2 {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 3.052em;
+    word-spacing: .5em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: none;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 2.441em;
+    word-spacing: .2em;
+    margin: none;
+    text-align: left;
+    padding-top: 15px;
+}
+
+address {
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.url {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #4F3674;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: #D6A800;
+}
+
+a:visited {
+    color:#ff0080
+}
+
+.sentence {
+    font-style: italic;
+}
+
+p.intro {
+    text-indent: .2em;
+}
+
+/* Tatiyana Dean - CSD 340 Module 3 */
