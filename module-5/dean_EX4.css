@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+}
+
+#image-gallery {
+    display: grid;
+    margin-top: 10%;
+}
+
+#column1 {
+    grid-row-start: 1;
+    grid-row-end: 9;
+}
+
+#column2 {
+    grid-column-start: 2;
+    grid-row-start: 1;
+    grid-row-end: 9;
+}
+
+#column3 {
+    grid-column-start: 3;
+    grid-row-start: 1;
+    grid-row-end: 9;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+}
+
+h3 {
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+h1, h3, figure {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 400;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+}
+
+h1, h3, figcaption {
+    color: rgba(0,0,255,0.3);
+}
+
+.image {
+    border-style: solid;
+    border-radius: 15px;
+    padding: 5px;
+}
